@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidul23" alt="aidul23" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Android, Angular**
+- 💬 Ask me about **Android**
 
 - 📫 How to reach me **aidulislam0@gmail.com**
 
