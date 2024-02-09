@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aidul</h1>
 <h3 align="center">A passionate mobile and web application developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidul23&label=Profile%20views&color=0e75b6&style=flat" alt="aidul23" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aidul23" alt="aidul23" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Android**
