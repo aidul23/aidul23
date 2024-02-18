@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aidul</h1>
 <h3 align="center">A passionate mobile and web application developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working on **React**, **MongoDB**, **ExpressJS**, **NodeJS** 
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Android**, **Web**
 
 - 📫 How to reach me **aidulislam0@gmail.com**
 
