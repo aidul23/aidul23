@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aidul</h1>
 <h3 align="center">A Passionate Mobile and Web Application Developer</h3>
 
-- 🌱 I’m currently working on **React**, **MongoDB**, **ExpressJS**, **NodeJS** 
+- 🌱 I’m currently working on **Generative AI**, **LLM**, **Digital Twins** 
 
 - 💬 Ask me about **Android**, **Web**
 
